@@ -23,10 +23,10 @@ It includes evidence and reflections on key employability skills such as **busin
 ![Business Communication](Business%20Communication.PNG)  
 
 **Reflection (STAR Technique):**  
-**Situation:** During a group presentation, I was responsible for introducing our project and engaging the audience.  
-**Task:** I needed to communicate ideas clearly and confidently using professional language.  
-**Action:** I prepared speaking notes, practiced eye contact, and used visual aids.  
-**Result:** The presentation was well-received, and I improved my confidence in public speaking.
+**Situation:** I completed a comprehensive module focused on developing professional communication skills used in a business environment.  
+**Task:** My goal was to improve my ability to express ideas clearly, both in writing and when speaking in professional settings.  
+**Action:** I learned different types of communication, practiced writing formal emails, and studied techniques for effective listening and presentation.  
+**Result:** I achieved a perfect score of 100%. This experience strengthened my confidence in communicating clearly and professionally in any workplace situation.
 
 ---
 
@@ -35,10 +35,10 @@ It includes evidence and reflections on key employability skills such as **busin
 ![Interview Skills](Interview%20Skills.PNG)  
 
 **Reflection (STAR Technique):**  
-**Situation:** I prepared for a mock job interview during work readiness training.  
-**Task:** My goal was to present myself professionally and answer questions confidently.  
-**Action:** I researched common interview questions and practiced responses.  
-**Result:** I performed well, received positive feedback, and learned how to highlight my strengths.
+**Situation:** This module focused on preparing for interviews and understanding what employers look for during the recruitment process.  
+**Task:** I aimed to gain practical knowledge and confidence to handle interview questions professionally.  
+**Action:** I practiced answering common interview questions, worked on improving my tone, and learned how to present myself positively.  
+**Result:** I achieved 80%. This helped me understand how to structure my answers, highlight my strengths, and remain calm and confident during real interviews.
 
 ---
 
@@ -47,10 +47,10 @@ It includes evidence and reflections on key employability skills such as **busin
 ![Mock Interview Video](Mock%20Interview%20Video.PNG)  
 
 **Reflection (STAR Technique):**  
-**Situation:** I participated in a recorded mock interview session.  
-**Task:** To simulate a real interview experience and improve my communication skills.  
-**Action:** I maintained good posture, answered questions clearly, and demonstrated professionalism.  
-**Result:** I identified areas for improvement such as pacing and tone, and gained confidence for future interviews.
+**Situation:** I created a professional mock interview video where I answered prepared questions as if I were in a real interview.  
+**Task:** The purpose was to demonstrate my communication, confidence, and professional appearance in a realistic interview setting.  
+**Action:** I prepared my responses carefully, dressed appropriately, maintained eye contact, and spoke clearly while showing enthusiasm.  
+**Result:** The experience taught me how to present myself with professionalism and confidence. It also improved my public speaking and prepared me for real job interviews.
 
 ---
 
@@ -59,10 +59,10 @@ It includes evidence and reflections on key employability skills such as **busin
 ![Professional Networking](Professional%20Networking.PNG)  
 
 **Reflection (STAR Technique):**  
-**Situation:** I created and updated my LinkedIn profile to build a professional presence online.  
-**Task:** To connect with industry professionals and showcase my skills and experience.  
-**Action:** I added a professional photo, wrote a strong summary, and connected with classmates and mentors.  
-**Result:** I grew my professional network and gained exposure to job opportunities and career advice.
+**Situation:** This section focused on understanding the importance of building and maintaining professional connections in the ICT industry.  
+**Task:** I wanted to learn how to establish a professional image and create valuable connections that could support my career development.  
+**Action:** I researched networking platforms, created a professional profile, and practiced strategies for effective networking and collaboration.  
+**Result:** I achieved 100%. I now understand how networking opens new opportunities for mentorship, career growth, and professional learning.
 
 ---
 
@@ -71,16 +71,18 @@ It includes evidence and reflections on key employability skills such as **busin
 ![Workplace Etiquette](Workplace%20Etiquette.PNG)  
 
 **Reflection (STAR Technique):**  
-**Situation:** During my internship, I practiced proper workplace behavior and ethics.  
-**Task:** To maintain professionalism, teamwork, and respect in all my duties.  
-**Action:** I followed company policies, met deadlines, and communicated effectively with colleagues.  
-**Result:** I earned positive feedback from my supervisor and developed a strong professional attitude.
+**Situation:** This module focused on appropriate workplace behavior, ethics, and professionalism expected in a business environment.  
+**Task:** My goal was to develop the right attitude, respect, and professionalism when working with others.  
+**Action:** I learned about teamwork, punctuality, professional appearance, and effective communication with colleagues and supervisors.  
+**Result:** I earned 100%, and I now fully understand how professionalism, respect, and good conduct create a positive and productive workplace.
 
 ---
 
 ### 🏁 Conclusion
-This portfolio represents my growth throughout the **work readiness training** journey.  
-I have developed communication, teamwork, professionalism, and networking skills that will help me succeed in my future career in Information Technology.
+This digital portfolio represents my journey of growth as I developed the essential professional and interpersonal skills required for the modern workplace.  
+Through these activities, I improved my **communication**, **interview performance**, **networking**, and **workplace behavior**.  
+
+I am now more confident, professional, and ready to apply these skills in my career in Information and Communication Technology.
 
 ---
 
