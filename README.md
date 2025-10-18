@@ -1,7 +1,7 @@
 # 🎓 Final Digital Portfolio – PRP372S
 
 This digital portfolio showcases my **work readiness training** and **professional development** completed for **Project Presentation 3 (PRP372S)** at the **Cape Peninsula University of Technology (CPUT)**.  
-It includes evidence and reflections on key employability skills such as **business communication**, **interview techniques**, **professional networking**, and **workplace etiquette** — all designed to prepare me for the professional environment.
+It includes evidence and reflections on key employability skills such as **business communication**, **interview techniques**, **professional networking**, and **workplace etiquette** all designed to prepare me for the professional environment.
 
 ---
 
